@@ -1,0 +1,13 @@
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.exe
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.deps.json
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.runtimeconfig.json
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.runtimeconfig.dev.json
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.dll
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\bin\Debug\netcoreapp3.1\Power of 2.pdb
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.AssemblyInfoInputs.cache
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.AssemblyInfo.cs
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.csproj.CoreCompileInputs.cache
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.dll
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.pdb
+E:\.net day 5 problem\Power of 2\Power of 2\Power of 2\obj\Debug\netcoreapp3.1\Power of 2.genruntimeconfig.cache

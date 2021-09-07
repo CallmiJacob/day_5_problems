@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_odd_or_even", "check_odd_or_even\check_odd_or_even.csproj", "{F7693ECF-7315-4561-9754-0877AC0AC947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7693ECF-7315-4561-9754-0877AC0AC947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7693ECF-7315-4561-9754-0877AC0AC947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7693ECF-7315-4561-9754-0877AC0AC947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7693ECF-7315-4561-9754-0877AC0AC947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48EF3731-C34B-43AD-B4CA-2388D47788C2}
+	EndGlobalSection
+EndGlobal

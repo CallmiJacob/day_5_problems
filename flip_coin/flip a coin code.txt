@@ -1,0 +1,40 @@
+private void Start_Click(object sender, EventArgs e)
+{
+    int headss = 0;
+    int tailss = 0;
+    int random2, g;
+    string i = textBox1.Text;
+    int input2, input;
+    bool NumberCheck = int.TryParse(i, out input2);
+
+    if (textBox1.Text == String.Empty) // check for empty string, when true
+        MessageBox.Show("Enter a valid number between 0 and 100000.");
+    else // check for empty string, when false
+        if (!NumberCheck) // number check, when false
+        {
+            textBox1.Text = String.Empty;
+            MessageBox.Show("Enter a valid number between 0 and 100000.");
+        }
+        else
+        {
+            input = Convert.ToInt32(textBox1.Text);
+
+            for (g = 0; g < input; g++)
+            {
+                Random random = new Random();
+                random2 = random.Next(2);
+
+                if (random2 == 0)
+                {
+                    headss++;
+                }
+                else if (random2 == 1)
+                {
+                    tailss++;
+                }
+            }
+        }
+
+    heads.Text = Convert.ToString(headss);
+    tails.Text = Convert.ToString(tailss);
+}
